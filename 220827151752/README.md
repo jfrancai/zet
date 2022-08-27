@@ -1,0 +1,24 @@
+# CPP0 Iniatialization list
+
+```cpp
+class Sample {
+public:
+	char	a1;
+	int		a2;
+	float	a3;
+	Sample(char p1, int p2, float p3);
+	~Sample(void);
+}
+
+Sample::Sample(char p1, int p2, float p3) : a1(p1), a2(p2), a3(p3) {
+	return ;
+}
+
+Sample::~Sample(void){
+	return ;
+}
+```
+
+More details : [Member initialization in constructors](https://cplusplus.com/doc/tutorial/classes/), [Why should I prefer to use member initialization lists?](https://stackoverflow.com/questions/926752/why-should-i-prefer-to-use-member-initialization-lists)
+
+    #cpp #initlists #constructor #classes
