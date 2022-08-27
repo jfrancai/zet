@@ -1,4 +1,4 @@
-# CPP0 Class and instance
+# CPP0 Classes and instance
 
 keywords :
 * instantiation of a class => object instance
@@ -28,4 +28,4 @@ Sample::~Sample(void){
 
 More details : [Class](https://cplusplus.com/doc/tutorial/classes/)
 
-    #cpp #class #oop
+    #cpp #classes #oop
