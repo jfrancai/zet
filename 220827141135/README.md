@@ -26,6 +26,6 @@ Sample::~Sample(void){
 }
 ```
 
-More details : [Class](https://cplusplus.com/doc/tutorial/classes/)
+More details : [Classes](https://cplusplus.com/doc/tutorial/classes/)
 
     #cpp #classes #oop
