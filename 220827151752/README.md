@@ -1,5 +1,6 @@
 # CPP0 Iniatialization list
 
+When a constructor is used to initialize other members, these other members can be initialized directly, without resorting to statements in its body. This is done by inserting, before the constructor's body, a colon (:) and a list of initializations for class members. 
 ```cpp
 class Sample {
 public:
