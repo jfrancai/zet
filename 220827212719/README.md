@@ -18,7 +18,7 @@ inst_p->*p = 42; // or ->*
 (inst_p->*f)(); // Same here.
 ```
 
-> ``.*`` and ``->*`` are called pointer-to-members
+``.*`` and ``->*`` are called pointers-to-members
 
 Related: [Operators](https://cplusplus.com/doc/tutorial/operators/)
 
