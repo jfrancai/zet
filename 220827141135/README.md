@@ -1,9 +1,9 @@
 # CPP0 Class and instance
 
 keywords :
-	* instantiation of a class => object instance
-	* constructor
-	* destructor
+* instantiation of a class => object instance
+* constructor
+* destructor
 
 Class declaration :
 ```cpp
