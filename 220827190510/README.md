@@ -11,7 +11,7 @@ public:
 	Sample(void);
 	~Sample(void);
 
-	int	getFoo(void const;
+	int	getFoo(void) const;
 	void	setFoo(int v);
 private:
 	int _foo;
