@@ -26,7 +26,7 @@ $(NAME): $(OBJS)
 %.o: %.cpp
 	$(CC) $(CFLAGS) -c $< -o $@
 
-.PHONY: all clean re fclean
+.PHONY: all
 ```
 
 More details: [Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
