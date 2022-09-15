@@ -9,6 +9,6 @@ void	bar(float const z) const;
 void	bar(Sample const &i) const;
 ```
 
-More details : [Overloads and templates](https://cplusplus.com/doc/tutorial/functions2/)
+More details : [Overloaded functions](https://cplusplus.com/doc/tutorial/functions2/)
 
     #cpp #overloads
