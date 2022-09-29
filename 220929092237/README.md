@@ -27,5 +27,4 @@ int main () {
 
 More details : [Pointers to base class](https://cplusplus.com/doc/tutorial/polymorphism/)
 
-    #cpp #polymorphism
-
+    #cpp #polymorphism #inheritance
