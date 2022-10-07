@@ -17,4 +17,6 @@ int	main(void)
 }
 ```
 
+Credit : Thor from 42 intranet
+
     #c #cpp #cast
