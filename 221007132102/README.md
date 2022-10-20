@@ -57,6 +57,10 @@ int	main(void)
 }
 ```
 
+> It makes no difference whether the generic type is specified with keyword class or keyword typename in the template argument list (they are 100% synonyms in template declarations).
+
 Credit : Thor from 42 intranet
 
-    #cpp #templates
+More details : [Function templates](https://cplusplus.com/doc/tutorial/functions2/), [Dependent names](https://en.cppreference.com/w/cpp/language/dependent_name)
+
+    #cpp #template
