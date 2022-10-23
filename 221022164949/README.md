@@ -1,8 +1,8 @@
 # All The Important Short Cut You Have To Know
 
 ## Vim
-* Please use vim. (run vim inside your shell)
-* Then inside vim run :help and follow the tuto.
+* Please use vim. (run ``vim`` inside your shell)
+* Then inside vim run ``:help`` and follow the tuto.
 
 ## Navigator :
 
