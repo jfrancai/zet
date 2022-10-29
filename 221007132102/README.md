@@ -7,8 +7,8 @@
 #include <iostream>
 
 // Function template
-template<typename T>
-T const & max( T const &x, Tconst &y)
+template<typename T> // We can use multiple param type : template<typename T, typename U>
+T const & max( T const &x, T const &y)
 {
 	return (x >= y ? x : y);
 }
@@ -20,7 +20,9 @@ int	main(void)
 
 	max<int>(a, b)
 }
+```
 
+```cpp
 // Class template
 template<typename T>
 class List {
@@ -54,4 +56,10 @@ int	main(void)
 	return (0);
 }
 ```
-    #cpp #templates
+> It makes no difference whether the generic type is specified with keyword class or keyword typename in the template argument list (they are 100% synonyms in template declarations).
+
+Credit : Thor from 42 intranet
+
+More details : [Function templates](https://cplusplus.com/doc/tutorial/functions2/), [Dependent names](https://en.cppreference.com/w/cpp/language/dependent_name)
+
+    #cpp #template
