@@ -1,15 +1,23 @@
 # Mount a Persistent Volume
 
 Start one or more stopped containers
-> docker start
+```sh
+docker start
+```
 
 Stop one or more running containers
-> docker stop
+```sh
+docker stop
+```
 
 Remove one or more containers
-> docker rm
+```sh
+docker rm
+```
 
 Persistent volume:
-> docker run -tid -p 8080:80 -v /srv/data/nginx:/usr/share/nginx/html --name web nginx:latest
+```sh
+docker run -tid -p 8080:80 -v /srv/data/nginx:/usr/share/nginx/html --name web nginx:latest
+```
 
     #docker
