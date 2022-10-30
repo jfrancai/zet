@@ -1,8 +1,12 @@
 # Nginx Container
 
-> docker run -tid -p 8080:80 --name web nginx:latest
+```sh
+docker run -tid -p 8080:80 --name web nginx:latest
+```
 
-> docker inspect web
+```sh
+docker inspect web
+```
 
 More details : [nginx](http://nginx.org)
 
