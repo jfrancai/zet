@@ -24,6 +24,6 @@ More details : [Chrome keyboard shortcuts](https://support.google.com/chrome/ans
 
 * Read Ubuntu documentation and find what best suits your habits
 
-More details : [Useful keyboard shortcuts](https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en), [Keyboard navigation](https://help.ubuntu.com/stable/ubuntu-help/keyboard-nav.html.en)
+More details : [Useful keyboard shortcuts](https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en), [Keyboard navigation](https://help.ubuntu.com/stable/ubuntu-help/keyboard-nav.html.en), [keycombiner](https://keycombiner.com)
 
-    #shortcut #vim #browser #linux
+    #shortcut #productivity
