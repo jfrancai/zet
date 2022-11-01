@@ -32,4 +32,21 @@ docker build -t imagename:version .
 
 > do not forget the dot
 
+List images:
+```bash
+docker image ls
+```
+
+Show the history of an image:
+```bash
+docker history myimage:latest
+```
+
+Remove one or more images:
+```bash
+docker rmi monimage:v1.0
+```
+
+> You have do delete all container that use your image before being able to actually delete the image.
+
     #docker #dockerimage #dockerfile
