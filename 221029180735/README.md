@@ -36,6 +36,6 @@ docker exec -ti mycontainer sh
 
 
 
-More details : [docker hub](https://hub.docker.com)
+More details : [docker hub](https://hub.docker.com), [12 Things I Wish I Knew About Docker](https://vsupalov.com/12-docker-facts/)
 
     #docker
