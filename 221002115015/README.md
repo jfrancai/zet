@@ -9,13 +9,13 @@ class Form
 {
 	/*...*/
 	public:
-		void	beSigned(Bureaucrat const &bureaucrat);
+		void beSigned(Bureaucrat const &bureaucrat);
 		class GradeTooLowException : public std::exception
 		{
 			virtual const char *what() const throw();
 		};
 	private:
-		bool	_isSigned;
+		bool _isSigned;
 }
 
 //Form.cpp
@@ -50,8 +50,8 @@ int	main(void)
 
 ```
 
-> The type of the thrown variable must be the same as the type captured in the catch block. If an ellipsis (...) is used as the parameter of catch, that handler will catch any exception no matter what the type of the exception thrown. 
+> The type of the thrown variable must be the same as the type captured in the catch block. If an ellipsis (...) is used as the parameter of catch, that handler will catch any exception no matter what the type of the exception thrown.
 
-More details : [exceptions](https://cplusplus.com/doc/tutorial/exceptions/)
+More details : [exceptions](https://cplusplus.com/doc/tutorial/exceptions/), [std::exception](https://en.cppreference.com/w/cpp/error/exception)
 
     #cpp #try #catch #throw
