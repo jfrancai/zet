@@ -60,6 +60,6 @@ int	main(void)
 
 Credit : Thor from 42 intranet
 
-More details : [Function templates](https://cplusplus.com/doc/tutorial/functions2/), [Dependent names](https://en.cppreference.com/w/cpp/language/dependent_name)
+More details : [Function templates](https://cplusplus.com/doc/tutorial/functions2/), [Dependent names](https://en.cppreference.com/w/cpp/language/dependent_name), [Where and why do I have to put the "template" and "typename" keywords?](https://stackoverflow.com/questions/610245/where-and-why-do-i-have-to-put-the-template-and-typename-keywords)
 
     #cpp #template
