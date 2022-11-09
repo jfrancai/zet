@@ -1,4 +1,4 @@
-# Linux Namespaces
+## Linux Namespaces
 
 * Linux kernel feature introduced in 2002.
 * Resources may exist in multiple spaces.

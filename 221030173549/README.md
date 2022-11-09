@@ -1,4 +1,4 @@
-# Dockerfile and Docker Image
+## Dockerfile and Docker Image
 
 * The Dockerfile is a configuration file that automates the steps of creating a Docker image.
 * It is similar to a Makefile.

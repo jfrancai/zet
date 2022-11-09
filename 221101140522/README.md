@@ -1,4 +1,4 @@
-# Layers and Cache
+## Layers and Cache
 
 * Two types of layers : r-only and rw (a container)
 * Different layers can be shared between images
